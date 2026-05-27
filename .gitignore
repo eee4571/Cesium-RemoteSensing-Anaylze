@@ -9,3 +9,5 @@ __pycache__/
 *.pyc
 *.pyo
 *.log
+data/uploads/
+data/outputs/
