@@ -1,0 +1,14 @@
+{
+  "totalPixels": 1904,
+  "validPixels": 1870,
+  "nodataPixels": 34,
+  "validRatio": 0.9821428571428571,
+  "min": 0.006188118830323219,
+  "max": 0.8114553093910217,
+  "mean": 0.2543412744998932,
+  "std": 0.10337142646312714,
+  "pixelArea": 100.0,
+  "areaUnit": "square_meters",
+  "thresholdPixels": 1277,
+  "thresholdArea": 127700.0
+}

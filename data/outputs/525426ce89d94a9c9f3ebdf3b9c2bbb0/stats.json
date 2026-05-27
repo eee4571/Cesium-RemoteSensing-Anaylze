@@ -1,0 +1,21 @@
+{
+  "totalPixels": 76670,
+  "validPixels": 75921,
+  "nodataPixels": 749,
+  "validRatio": 0.9902308595278466,
+  "min": -1.0433341264724731,
+  "max": 0.9980586767196655,
+  "mean": -0.05196957290172577,
+  "std": 0.17242330312728882,
+  "increasePixels": 251,
+  "decreasePixels": 1276,
+  "stablePixels": 74394,
+  "increaseArea": 25100.0,
+  "decreaseArea": 127600.0,
+  "stableArea": 7439400.0,
+  "overlapPixels": 75921,
+  "overlapRatio": 0.9902308595278466,
+  "pixelArea": 100.0,
+  "areaUnit": "square_meters",
+  "threshold": 0.48
+}
